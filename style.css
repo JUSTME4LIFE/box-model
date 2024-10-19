@@ -1,0 +1,14 @@
+.Example1{
+    width: 150px;
+    background-color: rgb(251, 195, 238);
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.example2{
+    width: 150px;
+    background-color: aquamarine;
+    padding: 50px;
+    margin: 50px;
+    border: 9px solid rgb(178, 178, 234);
+}
